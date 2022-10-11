@@ -38,7 +38,7 @@ The process started by setting a goal before getting familiar with the data. Our
 After thinking through the questions, we started by understanding the shape of the dataset, which houses 12684 records and 26 features. No obvious numerical correlations were observed but the ouput of the pairwise correlation of columns did show an interesting positive correlation between accepting coupons and temperature. The output of this initial correlation can be accessed under the [Exploration Section](http://localhost:8888/notebooks/Customers_and_Coupons_Acceptance_Analysis.ipynb#Data-Exploration) of the included Jupyter notebook.
 
 ## Data Sanitation
-No null values were detected but we did have missing/problematic data brokend down as follows:
+No null values were detected but we did have missing/problematic data on a handful of columns:
 ```
 car                     12576
 Bar                       107
