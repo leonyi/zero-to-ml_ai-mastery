@@ -81,7 +81,7 @@ Once the data was sanitized we started the analysis and had the following observ
 
 ### Next Steps
 * Continue exploring the "Coffee House" and the "Restaurant(<20)" as they reported the highest **total** counts for acceptance rates. We may be able to uncover good insights on what influenced the drivers who received those coupons to accept them.
-* Create other visualizations to summary the observations for each of the aforementioned features.
+* Create other visualizations to summarize the observations for each of the aforementioned features.
 
 
 
