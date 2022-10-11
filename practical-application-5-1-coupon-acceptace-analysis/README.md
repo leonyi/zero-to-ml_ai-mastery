@@ -14,7 +14,7 @@ The goal of this project was to use visualizations and probability distributions
 | ------------- | ------------- |
 | data/         | Directory containing the data set in .csv format. |
 | env/          | Directory housing a yaml file with all needed requirements to create a conda dev environment to run the Juypter notebook in you laptop. |
-| Customers_and_Coupons_Acceptance_Analysis.ipynb       | Jupyter Notebook with the in-depth analysis. |
+| [Customers_and_Coupons_Acceptance_Analysis.ipynb](https://github.com/leonyi/zero-to-mlai-mastery/blob/main/practical-application-5-1-coupon-acceptace-analysis/Customers_and_Coupons_Acceptance_Analysis.ipynb)       | Jupyter Notebook with the in-depth analysis. |
 | README.md     | This file. |
 
 # Analysis Summary
