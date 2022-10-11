@@ -11,7 +11,7 @@ The goal of this project was to use visualizations and probability distributions
 | Item Name     | Description   |
 | ------------- | ------------- |
 | data/         | Directory containing the data set in .csv format. |
-| env/          | Direcoty housing a yaml file with all needed requirements to create a conda dev environment to run the Juypter notebook on you laptop. |
+| env/          | Directory housing a yaml file with all needed requirements to create a conda dev environment to run the Juypter notebook on you laptop. |
 | Customers_and_Coupons_Acceptance_Analysis.ipynb       | Jupyter Notebook with the in-depth analysis. |
 | README.md     | This file. |
 
