@@ -38,7 +38,7 @@ The goal here was to find out more about the patterns in the data to answer a ke
 * Do we have categorical features? Do any of them need to be encoded?
 * How do we make projections on profits based on the base purchase price of the car (i.e. the price the Agency paid for the car)?
 
-After thinking through the questions, we started by understanding the shape of the dataset, which houses 426880 records and 18 features. No obvious numerical correlations were observed but the ouput of the pairwise correlation of columns did show an interesting positive correlation between accepting coupons and temperature. The output of this initial correlation can be accessed under the [Exploration Section](http://localhost:8888/notebooks/Customers_and_Coupons_Acceptance_Analysis.ipynb#Data-Exploration) of the included Jupyter notebook.
+After thinking through the questions, we started by understanding the shape of the dataset, which houses 426880 records and 18 features. . The output of this initial correlation can be accessed under the [Data Exploration Section](bhttps://github.com/leonyi/zero-to-mlai-mastery/blob/main/practical-application2-used-cars-analysis/used-cars-analysis.ipynb) of the included Jupyter notebook.
 
 ## Data Sanitation
 Null values were detected on a handful of columns:
