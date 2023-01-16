@@ -26,6 +26,9 @@ The goal of this project was to understand, prepare and model the used cars data
 # Analysis Summary
 This section describes the decisions/observations made in each phase of the analysis cycle.
 
+## Business Understanding
+The used car market is huge. Some poeple prefer to buy used or certified pre-owned vehicles due to depreciation. Studies show that a brand new car looses ~ 9 - 11% of their value the moment its driven off the lot. It is also predicted that by the year 2030 it will be a 2.75 Trillion USD market. With this context in mind is important for a used car agency to have reliable data and trained models that can generate accurate predictions (and market analysis) on what type of car inventory (with key features) is to be built to increase sales and possibly profits.
+
 ## Data Exploration
 The goal here was to find out more about the patterns in the data to answer a key question, **what makes used cars valuable to used car buyers?** among the following:
 
@@ -77,19 +80,20 @@ To facilitate analysis of the data the following decisions were made to deal wit
 
 The implementation of each decision can be accessed on the [implementing decisions section](http://localhost:8888/notebooks/Customers_and_Coupons_Acceptance_Analysis.ipynb#Implementing-the-decisions) of the Jupiter Notebook included on this directory.
 
-### Data 
+## Data Evaluation
 Once the data was sanitized we started the analysis and had the following observations:
 
 [General Obserations]
 * 
 *
 
+## Data Deployment
+...
 
 ### Next Steps
-* Continue exploring the "Coffee House" and the "Restaurant(<20)" as they reported the highest **total** counts for acceptance rates. We may be able to uncover good insights on what influenced the drivers who received those coupons to accept them.
-* Create other visualizations to summarize the observations for each of the aforementioned features.
-
+* Collect more data to determine what other features can have a stronger impact to used car prices, which could translate to better sales/profits.
+* Richer data may help train a model that can better predict profits for a given used car agency based on their inventory and previous sales data.
 
 ## Sources 
-The data for this analysis came from [uci.edu machine learning archive](https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation#).
+The data for this analysis came from [Kaggle](https://www.kaggle.com/datasets).
 
