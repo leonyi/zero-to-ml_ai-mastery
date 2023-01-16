@@ -1,7 +1,13 @@
 # Used Car Sales Analysis
-The analysis was conducted using the in-vehicle coupon recommendations dataset from the UCI machine learning archive and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then asks the person whether he/she will accept the coupon if he/she is the driver. 
+**OVERVIEW**
 
-Answers that the user will drive there ‘right away’ or ‘later before the coupon expires’ are labeled as ‘Y = 1’ and answers ‘no, I do not want the coupon’ are labeled as ‘Y = 0’. There are five different types of coupons -- less expensive restaurants (under $20), coffee houses, carry out & take away, bar, and more expensive restaurants ($20 - $50). The data set also contains various attributes that describe a driver/user, coupons, an other contextual attributes, whose description can aslo be foudn [here](https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation#).
+In this repo we provide an exploration and in-depth analyis of a 'used cars' dataset from kaggle. The original dataset contained information on 3 million used cars. The provided dataset contains information on 426K cars. The smaller dataset ensures speed of processing.
+
+**Goal of Analysis**
+
+The goal is to understand what factors make a car more or less expensive. As a result of your analysis, you should provide clear recommendations to your client -- a used car dealership -- as to what consumers value in a used car.
+
+To frame the task, throughout our practical applications we will refer back to a standard process in industry for data projects called CRISP-DM. This process provides a framework for working through a data problem.
 
 
 # Context
