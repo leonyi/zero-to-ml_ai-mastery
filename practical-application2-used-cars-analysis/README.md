@@ -95,5 +95,6 @@ Once the data was sanitized we started the analysis and had the following observ
 * Richer data may help train a model that can better predict profits for a given used car agency based on their inventory and previous sales data.
 
 ## Sources 
-The data for this analysis came from [Kaggle](https://www.kaggle.com/datasets).
+* The data for this analysis came from [Kaggle](https://www.kaggle.com/datasets).
+* Used car market size data from [Globe Newswire](https://www.globenewswire.com/en/news-release/2022/09/22/2521333/0/en/Used-Car-Market-Size-is-projected-to-reach-USD-2-75-trillion-by-2030-growing-at-a-CAGR-of-6-17-Straits-Research.html).
 
