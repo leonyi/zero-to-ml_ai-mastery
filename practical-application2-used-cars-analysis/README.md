@@ -1,4 +1,4 @@
-# User Car Sales Analysis
+# Used Car Sales Analysis
 The analysis was conducted using the in-vehicle coupon recommendations dataset from the UCI machine learning archive and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then asks the person whether he/she will accept the coupon if he/she is the driver. 
 
 Answers that the user will drive there ‘right away’ or ‘later before the coupon expires’ are labeled as ‘Y = 1’ and answers ‘no, I do not want the coupon’ are labeled as ‘Y = 0’. There are five different types of coupons -- less expensive restaurants (under $20), coffee houses, carry out & take away, bar, and more expensive restaurants ($20 - $50). The data set also contains various attributes that describe a driver/user, coupons, an other contextual attributes, whose description can aslo be foudn [here](https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation#).
