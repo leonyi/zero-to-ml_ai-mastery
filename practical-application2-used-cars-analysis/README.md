@@ -79,7 +79,7 @@ To facilitate analysis of the data the following decisions were made to deal wit
 4. Categorical feature, 'cylinders' will be converted to numerical value.
 5. Categorical features that hold multiple values will be handled in a case by case basis. 
 
-The implementation of each decision can be accessed on the [implementing decisions section](http://localhost:8888/notebooks/Customers_and_Coupons_Acceptance_Analysis.ipynb#Implementing-the-decisions) of the Jupiter Notebook included on this directory.
+The implementation of each decision can be accessed on the [implementing decisions section](https://github.com/leonyi/zero-to-mlai-mastery/blob/main/practical-application2-used-cars-analysis/used-cars-analysis.ipynb) of the Jupiter Notebook included on this directory.
 
 ## Data Evaluation
 Once the data was sanitized we started the analysis and had the following observations:
