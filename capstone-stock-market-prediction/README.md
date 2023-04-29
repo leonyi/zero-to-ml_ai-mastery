@@ -41,8 +41,8 @@ We started by understanding the data we would be using to do the analysis. We th
 
 ## Outline of project
 
-- [Stock Prediction - DEA](https://colab.research.google.com/drive/16DvzTrbjleZcIR70-Z6vzkXosIVRKewc?usp=sharing)
-- [Stock Prediction - Modeling ](https://colab.research.google.com/drive/1I9D8TwYrNFwBTMEhWkgF-5WprRPFQYxn?usp=sharing)
+- [Stock Prediction - DEA](https://github.com/leonyi/zero-to-mlai-mastery/blob/main/capstone-stock-market-prediction/stock_prediction_EDA.ipynb)
+- [Stock Prediction - Modeling ](https://github.com/leonyi/zero-to-mlai-mastery/blob/main/capstone-stock-market-prediction/stock_prediction_modeling.ipynb)
 
 ### More context on structure of this project
 Before moving to the problem definition, this section provides details on the contents of this git repository.
